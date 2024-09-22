@@ -1,4 +1,5 @@
-
+# Uber Clone: A Seamless Ride-Hailing Experience 🚕
+Dive into the world of ride-sharing with my Uber clone app, built using React Native and Expo. This application offers users a smooth and intuitive interface to request rides, track their journey in real-time, and manage their trips effortlessly.
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React Native
